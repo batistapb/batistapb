@@ -1,27 +1,40 @@
+## Hey there 👋
 
-# batistapb
+I'm a tech student based in Florianópolis, SC 🇧🇷.
 
-Olá! Me chamo Pablo, sou estudante de ADS no IFSC, estou estudando atualmente .NET pela DIO, estou querendo ingressar no mercado de trabalho e buscando cada vez mais evoluir meu aprendizado. :technologist:
+Right now, I'm focusing on **Cybersecurity**, learning how systems work, how they can be protected, and how vulnerabilities are discovered and fixed.
 
-## Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo/)
- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablobdbd/) 
+I have an **intermediate level of experience with .NET and MySQL**, and I enjoy building practical projects to improve my skills and grow my portfolio.
 
-## Habilidades
+Currently, I work as **Technical Support at Porter**, where I deal with problem-solving, system usage, and direct interaction with users — which helps me better understand real-world issues and how technology supports business operations.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-  
-  ## GitHub Stats
+I'm also working on improving my **English fluency**, aiming to communicate confidently in international and professional environments.
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batistapb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+This profile is where I share projects, experiments, and things I'm learning along the way — most of them built from scratch as part of my studies and personal challenges.
 
-  ## Linguagens mais usadas
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=batistapb&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 🛠️ Tools & Skills
 
-## Repositórios
+- Cybersecurity fundamentals (currently studying)
+- .NET development (intermediate)
+- MySQL databases
+- Java (Basic)
+- A little bit of HTML and CSS
+- Technical support & troubleshooting
+- Problem solving & system analysis
+- Continuous learning mindset
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=batistapb&repo=trilha-net-testes-unitarios-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/batistapb/SEUREPOtrilha-net-testes-unitarios-desafioSITORIO)
+---
+
+## 💡 A Bit About Me
+
+- 📍 Living in Florianópolis, Brazil  
+- 💼 Currently working as support  
+- 🎯 Focused on growing in cybersecurity and software development  
+- 📚 Always learning something new  
+- 🌎 Working toward English fluency  
+
+---
+
+⭐ Thanks for visiting my profile!
