@@ -6,7 +6,7 @@ Right now, I'm focusing on **Cybersecurity**, learning how systems work, how the
 
 I have an **intermediate level of experience with .NET and MySQL**, and I enjoy building practical projects to improve my skills and grow my portfolio.
 
-Currently, I work as **Technical Support at Porter**, where I deal with problem-solving, system usage, and direct interaction with users — which helps me better understand real-world issues and how technology supports business operations.
+Currently, I work as **Support of Client at Porter**, where I deal with problem-solving, system usage, and direct interaction with users — which helps me better understand real-world issues and how technology supports business operations.
 
 I'm also working on improving my **English fluency**, aiming to communicate confidently in international and professional environments.
 
